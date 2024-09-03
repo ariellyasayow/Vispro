@@ -1,0 +1,11 @@
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\bin\Debug\ndhbfjds.exe.config
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\bin\Debug\ndhbfjds.exe
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\bin\Debug\ndhbfjds.pdb
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.csproj.AssemblyReference.cache
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.Form1.resources
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.Properties.Resources.resources
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.csproj.GenerateResource.cache
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.csproj.CoreCompileInputs.cache
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.exe
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\ndhbfjds.pdb
+C:\Users\RaHuL\Desktop\ariellya\ndhbfjds\ndhbfjds\obj\Debug\DESIGN.Form1.resources
